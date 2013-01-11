@@ -1,1 +1,7 @@
-阿贾克斯都很艰苦撒
+a app to search books with douban api 
+run environment:1.python 2.7 download: http://www.python.org/getit/
+2.pyside 1.1.2  download: http://qt-project.org/wiki/PySideDownloads
+
+how to run:
+1.download the matster branch
+2.run python main.py
